@@ -1,5 +1,25 @@
-# Disable autocrlf on generated files, they always generate with LF
-# Add any extra files or paths here to make git stop saying they
-# are changed when only line endings change.
+# Default
+* text=auto eol=lf
+
+# Windows scripts keep CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# Generated Forge data always uses LF
 src/generated/**/.cache/cache text eol=lf
 src/generated/**/*.json text eol=lf
+
+# Binary
+*.jar binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ogg binary
+*.mp3 binary
+*.wav binary
+*.nbt binary
+*.dat binary
+*.zip binary

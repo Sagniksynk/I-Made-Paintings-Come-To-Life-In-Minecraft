@@ -1,0 +1,19 @@
+I Made Paintings Come To Life In Minecraft
+Copyright (c) 2026 Sagnik Dasgupta
+
+This project includes third-party software:
+
+Minecraft Forge MDK
+  Copyright Minecraft Forge contributors
+  Licensed under LGPL 2.1
+  See licenses/MinecraftForge-MDK.txt
+
+GeckoLib
+  Copyright Bernie-G and GeckoLib contributors
+  Used as a runtime dependency (Forge 1.20.1)
+  https://github.com/bernie-g/geckolib
+
+Minecraft
+  Copyright Mojang Studios / Microsoft
+  Official mappings are subject to Mojang's mapping license:
+  https://github.com/MinecraftForge/MCPConfig/blob/master/Mojang.md

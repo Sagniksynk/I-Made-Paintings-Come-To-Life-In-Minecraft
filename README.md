@@ -84,4 +84,4 @@ Mod ID: `template_mod`
 
 ## License
 
-Mod content is **All Rights Reserved** unless otherwise noted. `LICENSE.txt` is the Minecraft Forge MDK / LGPL license that ships with the Forge template, not a license for this mod's original code and assets.
+This mod is released under the [MIT License](LICENSE). See [NOTICE](NOTICE) for third-party credits. The Forge MDK license is in `licenses/MinecraftForge-MDK.txt`.
