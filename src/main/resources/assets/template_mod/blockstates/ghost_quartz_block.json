@@ -1,0 +1,7 @@
+{
+    "variants":  {
+                     "":  {
+                              "model":  "template_mod:block/ghost_quartz_block"
+                          }
+                 }
+}
